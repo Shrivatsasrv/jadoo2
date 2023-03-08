@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/jadoo2/static/css/main.0b733229.css",
+    "main.js": "/jadoo2/static/js/main.89884fc8.js",
+    "static/js/787.53f44fd6.chunk.js": "/jadoo2/static/js/787.53f44fd6.chunk.js",
+    "static/media/Heroine2-1.png": "/jadoo2/static/media/Heroine2-1.30e24a6ac13ceaf6baf5.png",
+    "static/media/company5.jpg": "/jadoo2/static/media/company5.e65ba78f881e9be15064.jpg",
+    "static/media/company1.jpg": "/jadoo2/static/media/company1.bf8011c520a328ef334d.jpg",
+    "static/media/rome.jpg": "/jadoo2/static/media/rome.0b16ac1f232188f144a6.jpg",
+    "static/media/company2.png": "/jadoo2/static/media/company2.6239851ec187b62acbfa.png",
+    "static/media/europe.jpg": "/jadoo2/static/media/europe.16443c73422670363b05.jpg",
+    "static/media/London.jpg": "/jadoo2/static/media/London.a496308bd1d86907a5cf.jpg",
+    "static/media/company4.png": "/jadoo2/static/media/company4.348ae249772a77b8a07b.png",
+    "static/media/herobg.jpg": "/jadoo2/static/media/herobg.e1cec5b37d4dc1115241.jpg",
+    "static/media/greece.jpg": "/jadoo2/static/media/greece.7f3437ca73b5030d00fc.jpg",
+    "static/media/feebackformbg.jpg": "/jadoo2/static/media/feebackformbg.8c3ec134612810a8f5fb.jpg",
+    "static/media/destinationsideimg.jpg": "/jadoo2/static/media/destinationsideimg.0ea256350899caecb8ee.jpg",
+    "static/media/sideImg.jpg": "/jadoo2/static/media/sideImg.5ada21daad6bdf32ddb4.jpg",
+    "index.html": "/jadoo2/index.html",
+    "main.0b733229.css.map": "/jadoo2/static/css/main.0b733229.css.map",
+    "main.89884fc8.js.map": "/jadoo2/static/js/main.89884fc8.js.map",
+    "787.53f44fd6.chunk.js.map": "/jadoo2/static/js/787.53f44fd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b733229.css",
+    "static/js/main.89884fc8.js"
+  ]
+}
